@@ -1,3 +1,7 @@
+해당 Readme는 py파일 실행을 위해 작성되었습니다.
+
+ipynb는 그냥 실행해도 됩니다.
+
 # 1. 형태소 분석기를 사용을 위한 KoNLPy 다운로드
 
 ## > pip install konlpy
